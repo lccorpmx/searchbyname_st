@@ -4,10 +4,4 @@ pandas
 numpy
 matplotlib
 seaborn
-plotlstreamlit
-altair
-pandas
-numpy
-matplotlib
-seaborn
 blotly
