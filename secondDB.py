@@ -5,8 +5,7 @@ st.title("search name")
 DATA_URL = "dataset.csv"
 
 
-st.cache
-
+@st.cache
 def load_data_byname(name):
 	data = pd.read_csv(DATA_URL)
 	filtered_data_byname = data[data["name"].str.contains(name)]
