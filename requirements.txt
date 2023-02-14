@@ -1,0 +1,13 @@
+streamlit
+altair
+pandas
+numpy
+matplotlib
+seaborn
+blotlstreamlit
+altair
+pandas
+numpy
+matplotlib
+seaborn
+blotly
